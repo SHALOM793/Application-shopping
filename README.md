@@ -1,1 +1,2 @@
-# Application-shopping
+# application-shopping
+html, css, js
